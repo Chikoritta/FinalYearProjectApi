@@ -1,0 +1,12 @@
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Contracts/bin/Debug/netcoreapp3.1/Contracts.deps.json
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Contracts/bin/Debug/netcoreapp3.1/Contracts.dll
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Contracts/bin/Debug/netcoreapp3.1/Contracts.pdb
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Contracts/bin/Debug/netcoreapp3.1/Entities.dll
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Contracts/bin/Debug/netcoreapp3.1/Entities.pdb
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Contracts/obj/Debug/netcoreapp3.1/Contracts.csprojAssemblyReference.cache
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Contracts/obj/Debug/netcoreapp3.1/Contracts.AssemblyInfoInputs.cache
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Contracts/obj/Debug/netcoreapp3.1/Contracts.AssemblyInfo.cs
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Contracts/obj/Debug/netcoreapp3.1/Contracts.csproj.CoreCompileInputs.cache
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Contracts/obj/Debug/netcoreapp3.1/Contracts.csproj.CopyComplete
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Contracts/obj/Debug/netcoreapp3.1/Contracts.dll
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Contracts/obj/Debug/netcoreapp3.1/Contracts.pdb

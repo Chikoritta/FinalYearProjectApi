@@ -1,0 +1,14 @@
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repoistory/bin/Debug/netcoreapp3.1/Repoistory.deps.json
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repoistory/bin/Debug/netcoreapp3.1/Repoistory.dll
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repoistory/bin/Debug/netcoreapp3.1/Repoistory.pdb
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repoistory/bin/Debug/netcoreapp3.1/Contracts.dll
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repoistory/bin/Debug/netcoreapp3.1/Entities.dll
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repoistory/bin/Debug/netcoreapp3.1/Contracts.pdb
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repoistory/bin/Debug/netcoreapp3.1/Entities.pdb
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repoistory/obj/Debug/netcoreapp3.1/Repoistory.csprojAssemblyReference.cache
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repoistory/obj/Debug/netcoreapp3.1/Repoistory.AssemblyInfoInputs.cache
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repoistory/obj/Debug/netcoreapp3.1/Repoistory.AssemblyInfo.cs
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repoistory/obj/Debug/netcoreapp3.1/Repoistory.csproj.CoreCompileInputs.cache
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repoistory/obj/Debug/netcoreapp3.1/Repoistory.csproj.CopyComplete
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repoistory/obj/Debug/netcoreapp3.1/Repoistory.dll
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repoistory/obj/Debug/netcoreapp3.1/Repoistory.pdb

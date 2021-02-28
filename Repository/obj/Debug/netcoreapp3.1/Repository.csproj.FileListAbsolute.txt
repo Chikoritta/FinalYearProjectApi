@@ -1,0 +1,14 @@
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repository/bin/Debug/netcoreapp3.1/Repository.deps.json
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repository/bin/Debug/netcoreapp3.1/Repository.dll
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repository/bin/Debug/netcoreapp3.1/Repository.pdb
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repository/bin/Debug/netcoreapp3.1/Contracts.dll
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repository/bin/Debug/netcoreapp3.1/Entities.dll
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repository/bin/Debug/netcoreapp3.1/Contracts.pdb
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repository/bin/Debug/netcoreapp3.1/Entities.pdb
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repository/obj/Debug/netcoreapp3.1/Repository.csprojAssemblyReference.cache
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repository/obj/Debug/netcoreapp3.1/Repository.AssemblyInfoInputs.cache
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repository/obj/Debug/netcoreapp3.1/Repository.AssemblyInfo.cs
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repository/obj/Debug/netcoreapp3.1/Repository.csproj.CoreCompileInputs.cache
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repository/obj/Debug/netcoreapp3.1/Repository.csproj.CopyComplete
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repository/obj/Debug/netcoreapp3.1/Repository.dll
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Repository/obj/Debug/netcoreapp3.1/Repository.pdb

@@ -1,0 +1,9 @@
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Entities/bin/Debug/netcoreapp3.1/Entities.deps.json
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Entities/bin/Debug/netcoreapp3.1/Entities.dll
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Entities/bin/Debug/netcoreapp3.1/Entities.pdb
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Entities/obj/Debug/netcoreapp3.1/Entities.csprojAssemblyReference.cache
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Entities/obj/Debug/netcoreapp3.1/Entities.AssemblyInfoInputs.cache
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Entities/obj/Debug/netcoreapp3.1/Entities.AssemblyInfo.cs
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Entities/obj/Debug/netcoreapp3.1/Entities.csproj.CoreCompileInputs.cache
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Entities/obj/Debug/netcoreapp3.1/Entities.dll
+/Users/mohammedhayder/RiderProjects/FinalYearProject/Entities/obj/Debug/netcoreapp3.1/Entities.pdb
